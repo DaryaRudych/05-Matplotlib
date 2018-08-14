@@ -5,7 +5,7 @@ This is a visualization project where I use matplotlib library to explore the ma
 ## Findings
 1. The following chart shows that despite most revenue being generated in urban areas, rural and suburban areas, too, have significant demand for ride-sharing services that should not be ignored.
 
-https://github.com/DaryaRudych/05-Matplotlib/blob/master/TotalFaresChart.png?raw=true
+![TotalFaresChart](https://github.com/DaryaRudych/05-Matplotlib/blob/master/TotalFaresChart.png?raw=true)
 
 2. The next two charts show a disproportionate ratio between rural rides and number of drivers operating there. This suggests that by hiring more rural drivers the company can not only increase the demand but also lower the fares since rural drivers will cost less than drivers operating in urban and suburban areas.
 
