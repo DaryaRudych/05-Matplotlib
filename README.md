@@ -1,6 +1,6 @@
 ## Pyber Charts
 
-This is a visualization project where I use matplotlib library to explore the market opportunity for an imaginary ride-sharing company "Pyber". The analysis is based on company's dataset that contains information about every active driver and historic ride, including details like city, driver count, individual fares, and city type.
+This is a visualization project where I use matplotlib library to explore the market opportunity for an imaginary ride-sharing company "Pyber". The analysis is based on company's dataset that contains information about every active driver and historic rides, including details like city, driver count, individual fares, and city type.
 
 ## Findings
 1. The following chart shows that despite most revenue being generated in urban areas, rural and suburban areas, too, have significant demand for ride-sharing services that should not be ignored.
